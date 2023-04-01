@@ -53,4 +53,3 @@ for char in my_string:
     else:
         total_string += char + ' '
 print(total_string)
-
